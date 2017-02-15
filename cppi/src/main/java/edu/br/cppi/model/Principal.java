@@ -10,6 +10,8 @@ public class Principal {
         
         System.out.println("Novo Teste pull-request");
         
+        System.out.println("Teste com alunos");
+        
     }
     
 }
