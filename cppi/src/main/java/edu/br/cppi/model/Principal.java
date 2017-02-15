@@ -6,7 +6,7 @@ public class Principal {
     
     public static void main(String[] args) {
         
-        System.out.println("Olá equipe!");
+        System.out.println("Teste pull-request");
         
     }
     
